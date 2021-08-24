@@ -1,0 +1,42 @@
+### CTR测试项目打包操作步骤
+
+##### PlayerSetting中的修改
+
+- ProductName修改
+- OtherSetting中PackageName修改 cn.weligames.XXXXXX
+
+- PublishingSetting中创建新的安卓KEY
+
+1. 点击Keystore Manager
+2. 点击左上角按钮选择CreatNew=>anywhere
+3. 将生成的key保存在Assets文件夹中
+4. 将其命名为游戏包名如：mergeicon.keystore
+5. 填写密码，密码weli123
+6. Alias:mergeicon
+7. 填写完毕后点击Add key，然后yes创建
+
+##### ProjectInitSetting修改
+
+- 搜索ProjectInitSetting文件并打开
+- 项目名称：填写与ProductName名称相同
+- 包名和安卓签名key: 与PackageName后缀XXXXXX相同
+- ios包名： 与PackageName相同cn.weligames.XXXXXX
+- ios开发者、ios签名、描述不需要修改
+
+##### 图片和Icon替换
+
+- 根据需求替换MainWindow相关图片，一般bg和logo
+
+- 根据需求替换CompanyLogoWindow相关图片一般bg和logo
+
+- 根据需求替换Icon
+
+
+##### 网址修改
+
+- MainWindow脚本的按钮点击修改https://weligames.cn/XXXXXXX.html
+
+
+
+
+
