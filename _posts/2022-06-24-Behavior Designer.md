@@ -2,7 +2,7 @@
 
 
 
-##### 一 为什么用Behavior Designer
+#### 一 为什么用Behavior Designer
 
 ​	在Unity中，可以使用自带的Animator动画状态机来控制角色的动画，以及深层次的Blend Tree来制作角色的动画。
 
@@ -17,7 +17,7 @@ Behavior Designer 通过行为树的方式，理清楚了每一条逻辑，每�
 ![](https://github.com/410645092/huacheng.github.io/blob/master/images/BehaviorDesigner2.png?raw=true)
 
 
-##### 二 介绍相关组件
+#### 二 介绍相关组件
 
 Composites类组件：非行为类型组件，用于引导流程走向
 
@@ -42,7 +42,7 @@ Conditionals组件：与Actions组件类似，都是属于行为组件，但是�
 
 
 
-##### 三 实例介绍
+#### 三 实例介绍
 
 这里以《KTV大亨》中收银员的部分逻辑作为演示
 
@@ -78,7 +78,7 @@ Conditionals组件：与Actions组件类似，都是属于行为组件，但是�
 
 
 
-##### 四 自定义脚本行为编辑
+#### 四 自定义脚本行为编辑
 
 自定义脚本主要以Conditionals和Actions两类为主
 
