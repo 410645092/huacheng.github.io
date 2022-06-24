@@ -14,8 +14,7 @@ Behavior Designer 通过行为树的方式，理清楚了每一条逻辑，每�
 
 这是游戏项目《KTV大亨》中收银员的行为树结构，每一个分支，每一个条件逻辑都非常的清晰。
 
-![](/images/BehaviorDesigner2.png)
-
+![](https://github.com/410645092/huacheng.github.io/blob/master/images/BehaviorDesigner2.png?raw=true)
 
 
 ##### 二 介绍相关组件
@@ -51,9 +50,9 @@ Conditionals组件：与Actions组件类似，都是属于行为组件，但是�
 
 这里的行为对应的是这一部分
 
-![](/images/BehaviorDesigner3.png)
+![](https://github.com/410645092/huacheng.github.io/blob/master/images/BehaviorDesigner3.png?raw=true)
 
-![](/images/BehaviorDesigner4.png)
+![](https://github.com/410645092/huacheng.github.io/blob/master/images/BehaviorDesigner4.png?raw=true)
 
 行为讲解：
 
