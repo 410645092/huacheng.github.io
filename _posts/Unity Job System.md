@@ -200,6 +200,6 @@ public struct CalculatePlusJob : IJob
     }
 ```
 
-使用Job System后的效果
+使用Job System后的效果 只需要45+毫秒
 
 ![image-20220624104524007](C:\Users\huach\AppData\Roaming\Typora\typora-user-images\image-20220624104524007.png)
