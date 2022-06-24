@@ -113,8 +113,8 @@ using Unity.Collections;
       }
  }
 ```
+![](/images/NoJob.png)
 
-![image-20220624104502109](C:\Users\huach\AppData\Roaming\Typora\typora-user-images\image-20220624104502109.png)
 
 可以看到整个计算花费255+毫秒。
 
@@ -202,4 +202,4 @@ public struct CalculatePlusJob : IJob
 
 使用Job System后的效果 只需要45+毫秒
 
-![image-20220624104524007](C:\Users\huach\AppData\Roaming\Typora\typora-user-images\image-20220624104524007.png)
+![](/images/UseJob.png)
