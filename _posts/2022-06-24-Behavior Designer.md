@@ -8,13 +8,13 @@
 
 ​	行为少的情况下还是可以勉强接受，但是一旦行为过多，就非常的错综复杂，想要理清楚非常困难，肉眼可见的抗拒去理解。
 
-![image-20220624150327547](C:\Users\huach\AppData\Roaming\Typora\typora-user-images\image-20220624150327547.png)
+![.](/images/Behavior Designer1.png)
 
 Behavior Designer 通过行为树的方式，理清楚了每一条逻辑，每一个分支，做什么行为，逻辑判断等情况。
 
 这是游戏项目《KTV大亨》中收银员的行为树结构，每一个分支，每一个条件逻辑都非常的清晰。
 
-![image-20220624150722768](C:\Users\huach\AppData\Roaming\Typora\typora-user-images\image-20220624150722768.png)
+![.](/images/Behavior Designer2.png)
 
 
 
@@ -51,9 +51,9 @@ Conditionals组件：与Actions组件类似，都是属于行为组件，但是�
 
 这里的行为对应的是这一部分
 
-![image-20220624154953113](C:\Users\huach\AppData\Roaming\Typora\typora-user-images\image-20220624154953113.png)
+![.](/images/Behavior Designer3.png)
 
-![image-20220624161025027](C:\Users\huach\AppData\Roaming\Typora\typora-user-images\image-20220624161025027.png)
+![.](/images/Behavior Designer4.png)
 
 行为讲解：
 
