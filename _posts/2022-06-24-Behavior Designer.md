@@ -8,7 +8,7 @@
 
 ​	行为少的情况下还是可以勉强接受，但是一旦行为过多，就非常的错综复杂，想要理清楚非常困难，肉眼可见的抗拒去理解。
 
-![](images/Behavior Designer1.png)
+![](/images/BehaviorDesigner1.png)
 
 Behavior Designer 通过行为树的方式，理清楚了每一条逻辑，每一个分支，做什么行为，逻辑判断等情况。
 
