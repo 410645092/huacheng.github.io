@@ -113,7 +113,7 @@ using Unity.Collections;
       }
  }
 ```
-![](/images/NoJob.png)
+![](https://github.com/410645092/huacheng.github.io/blob/master/images/NoJob.png?raw=true)
 
 
 可以看到整个计算花费255+毫秒。
@@ -202,4 +202,4 @@ public struct CalculatePlusJob : IJob
 
 使用Job System后的效果 只需要45+毫秒
 
-![](/images/UseJob.png)
+![](https://github.com/410645092/huacheng.github.io/blob/master/images/UseJob.png?raw=true)
