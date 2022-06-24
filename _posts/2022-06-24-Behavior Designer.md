@@ -11,7 +11,7 @@
 ![](/images/BehaviorDesigner1.png)
 [![](/images/BehaviorDesigner1.png)](https://github.com/410645092/huacheng.github.io/blob/master/images/BehaviorDesigner1.png?raw=true)
 ![]([/images/BehaviorDesigner1.png](https://github.com/410645092/huacheng.github.io/blob/master/images/BehaviorDesigner1.png?raw=true))
-![](https://github.com/410645092/huacheng.github.io/blob/master/images/BehaviorDesigner1.png?raw=true)
+
 Behavior Designer 通过行为树的方式，理清楚了每一条逻辑，每一个分支，做什么行为，逻辑判断等情况。
 
 这是游戏项目《KTV大亨》中收银员的行为树结构，每一个分支，每一个条件逻辑都非常的清晰。
