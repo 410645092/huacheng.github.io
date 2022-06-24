@@ -1,3 +1,3 @@
 # Your blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+随笔记录一些觉得有趣实用，或者不常用容易忘记的东西
